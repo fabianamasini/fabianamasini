@@ -38,6 +38,8 @@
 <h3>now playing . . .</h3>
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=masinifabiana&cover_image=true&theme=natemoo-re&bar_color=e384f0&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=masinifabiana&redirect=true)
+  
+![Snake animation](https://github.com/fabianamasini/fabianamasini/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <h2>bye! ( ´ ω ` )ノﾞ</h2>
