@@ -2,7 +2,7 @@
   <h2>hi! (´• ω •`)ﾉ</h1>
   <h3>about me</h3>
   <p>
-    🌸 fabiana, 23yo, brazil <b>!!</b> <i>she/her</i> :)<br>
+    🌸 fabiana, 23yo, brazil <b>!!</b> <i>she/her</i><br>
     💻 currently working as a <b>python web developer</b> <br>
     🤖 studying <b>data science, machine learning & nlp</b> <br>
   </p>
