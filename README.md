@@ -3,7 +3,7 @@
   <h3>about me</h3>
   <p>
     🌸 fabiana, 24yo, brazil <b>!!</b> <i>she/her</i><br>
-    💻 currently working as a <b>python web developer</b> <br>
+    💻 currently working as a <b>jr data scientist</b> <br>
     🤖 studying <b>data science, machine learning & nlp</b> <br>
   </p>
 </div>
