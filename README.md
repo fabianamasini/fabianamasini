@@ -7,7 +7,6 @@
     🤖 studying <b>data science, machine learning & nlp</b> <br>
   </p>
 </div>
-
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Python icon" height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Linux icon" height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
@@ -33,8 +32,6 @@
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=masinifabiana&cover_image=true&theme=natemoo-re&bar_color=e384f0&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=masinifabiana&redirect=true)
   
-![Snake animation](https://github.com/fabianamasini/fabianamasini/blob/output/github-contribution-grid-snake.svg)
-
 <div align="center">
   <h2>bye! ( ´ ω ` )ノﾞ</h2>
 </div>
