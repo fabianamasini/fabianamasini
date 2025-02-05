@@ -1,10 +1,10 @@
 <div align="center">
-  <h2>hi! (´• ω •`)ﾉ</h1>
+  <h2>hi! ₊˚⊹ ᰔ</h1>
   <h3>about me</h3>
   <p>
     🌸 fabiana, 26yo, brazil <b>!!</b> <i>she/her</i><br>
     💻 currently working as a <b>data scientist</b> <br>
-    🤖 studying <b>data science, machine learning & nlp</b> <br>
+    🤖 studying <b>statistics</b>, <b>power bi</b> and <b>machine learning</b> <br>
   </p>
 </div>
 <div align="center" style="display: inline_block"><br>
@@ -23,5 +23,5 @@
 </div>
     
 <div align="center">
-  <h2>bye! ( ´ ω ` )ノﾞ</h2>
+  <h2>bye!</h2>
 </div>
