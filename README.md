@@ -4,7 +4,7 @@
   <p>
     🌸 fabiana, 26yo, brazil <b>!!</b> <i>she/her</i><br>
     💻 currently working as a <b>data scientist</b> <br>
-    🤖 studying <b>statistics</b>, <b>power bi</b> and <b>machine learning</b> <br>
+    🤖 studying <b>statistics</b> and <b>machine learning</b> <br>
   </p>
 </div>
 <div align="center" style="display: inline_block"><br>
