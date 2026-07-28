@@ -1,20 +1,20 @@
-<div align="center">
-  <h2>hi! ₊˚⊹ ᰔ</h1>
-  <h3>about me</h3>
+<div>
+  <h2>welcome! (♡ˊ͈ ꒳ ˋ͈)</h2>
+</div>
+<div>
   <p>
-    🌸 fabiana, 27yo, brazil <b>!!</b> <i>she/her</i><br>
-    💻 currently working as a <b>data scientist</b> <br>
-    🤖 studying <b>statistics</b> and <b>machine learning</b> <br>
-  </p>
-</div>
-  
-<br>
-  
-<div align="center" style="display: inline_block">
-    <a href="https://www.linkedin.com/in/fabianamasini" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:masinifabiana@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-    
-<div align="center">
-  <h2>bye!</h2>
+  ‎  ‎  ‎ ⢠⠞⠀⠀⠈⢷⠀⠀⡜⠃⠀⠈⢳​​​‎ ‎ ‎ ‎ <b>fabiana</b>, 27yo <b>!!</b> { <i>she/her</i> }<br>
+ ‎  ‎  ‎ ⣾⠀⠀⠀⠀⠘⡇⢰⠅⠀⠀⠀⠸⡇‎ ‎ ‎<i>sao paulo</i>, <b>brazil</b><br>
+ ‎  ‎ ‎ ‎ ⣿⠀⠀⠀⠀⠀⡇⣾⠀⠀⠀⠀⢸⠃ ‎ <b>data scientist</b> @ santander<br>
+ ‎  ‎  ‎ ⢹⡀⠀⠀⠀⠀⡇⣿⠀⠀⠀⠀⡾<br>
+ ‎  ‎  ‎ ⠸⡇⠀⠀⠀⠀⠷⠿⠀⠀⠀⢰⠇<br>
+ ‎  ‎ ⢀⡴⠛⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢶⡀<br>
+⢰⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⡄<br>
+⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣷<br>
+⢹⠀⠀⠀⢰⡆⠀⠀⠀⠀⠀⠀⢀⣄⠀⠀⠀⡟<br>
+⠈⢧⡀⠀⠀⠀⠀⠀⢄⡀⣀⠀⠀⠁⠀⠀⣸⠃<br>
+‎ ‎ ⠈⠻⢦⣀⠀⠀⠀⠚⠙⠂⠀⠀⠀⣀⡴⠋<br>
+ ‎  ‎  ‎  ‎  ‎  ‎  ‎ ⠈⠉⠓⠒⠲⠶⠶⠒⠒⠋⠁<br>
+  </p>  
+<a href="https://www.linkedin.com/in/fabianamasini" target="_blank">linkedin</a> ⊹ <a href="mailto:masinifabiana@gmail.com" target="_blank">e-mail</a>
 </div>
